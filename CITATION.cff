@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Thiery
+    given-names: Florian
+    orcid: https://orcid.org/0000-0002-3246-3531
+  - family-names: Allard W.
+    given-names: Mees
+    orcid: https://orcid.org/0000-0002-7634-5342
+  - name: "alligator - Allen Transformer Webapp"
+title: "alligator Format (*.agt)"
+abstract: Format Description of Alligator
+version: 1.0
+type: dataset
+doi: 10.5281/zenodo.xyz
+date-released: 2022-12-02
+identifiers:
+  - description: This is the collection of archived snapshots of all versions
+    type: doi
+    value: "10.5281/zenodo.xyz"
+  - description: This is the archived snapshot of version 1.0
+    type: doi
+    value: "10.5281/zenodo.xyz"
+repository-code: "https://github.com/RGZM/alligator-format"
+keywords:
+  - "Linked Open Data"
+  - "Allen Interval Algebra"
+  - "Relative Chronology"
+contact:
+  - affiliation: "RGZM, Mainz Germany"
+    email: florian.thiery@rgzm.de
+    family-names: Florian
+    given-names: Thiery
+preferred-citation:
+  authors:
+    - family-names: Thiery
+      given-names: Florian
+    - family-names: Mees
+      given-names: Allard W. 
+  title: "alligator Format (*.agt)"
+  type: dataset
+  year: 2022
