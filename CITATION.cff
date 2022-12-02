@@ -11,15 +11,15 @@ title: "alligator Format (*.agt)"
 abstract: Format Description of Alligator
 version: 1.0
 type: dataset
-doi: 10.5281/zenodo.xyz
+doi: 10.5281/zenodo.7391345
 date-released: 2022-12-02
 identifiers:
   - description: This is the collection of archived snapshots of all versions
     type: doi
-    value: "10.5281/zenodo.xyz"
+    value: "10.5281/zenodo.7391345"
   - description: This is the archived snapshot of version 1.0
     type: doi
-    value: "10.5281/zenodo.xyz"
+    value: "10.5281/zenodo.7391346"
 repository-code: "https://github.com/RGZM/alligator-format"
 keywords:
   - "Linked Open Data"
